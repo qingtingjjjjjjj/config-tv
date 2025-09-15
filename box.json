@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/zhoujck/IPTV/main/okjar.txt;md5;d07149d7d9bb635f736eb1c617a506c5",
+  "spider": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/59F4988_773_okpng_20250911221644286newMediaFile.png;md5;d07149d7d9bb635f736eb1c617a506c5",
   "logo": "https://framagit.org/zhoujck/config/-/raw/main/pic/app_icon.png",
   "lives": [
     {"name": "🍬移动🍬","type": 0,"url": "https://framagit.org/zhoujck/config/-/raw/main/json/移动","playerType": 2,"ua": "okhttp/5.0.0-alpha.14","epg": "https://live.fanmingming.cn/e.xml","logo": "https://live.fanmingming.cn/tv/{name}.png"},
@@ -21,7 +21,7 @@
     {"key": "线路7","name": "🐼浪酷","type": 3,"api": "csp_TianTianGuard","ext": {"site": 2},"timeout": 10},
     {"key": "线路8","name": "🐼热播","type": 3,"api": "csp_TianTianGuard","ext": {"site": 0},"timeout": 10},
     {"key": "线路9","name": "🐼天天","type": 3,"api": "csp_TianTianGuard","ext": {"site": 1},"timeout": 10},
-    {"key": "线路10","name": "🐼至臻","type": 3,"api": "csp_ZhiZhenGuard"},
+    {"key": "线路10","name": "🐼玩偶","type": 3,"api": "csp_WoggGuard"},
     {"key": "短剧","name": "🌟短剧","type": 3,"api": "csp_TianQuanGuard"},
     {"key": "商店","name": "应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"jar": "https://framagit.org/zhoujck/config/-/raw/main/jar/FM.jar","ext": "https://framagit.org/zhoujck/config/-/raw/main/json/market.json"}
   ],
