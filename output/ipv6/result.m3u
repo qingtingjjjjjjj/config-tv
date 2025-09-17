@@ -213,6 +213,26 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="其他",其他
 #genre#
+#EXTINF:-1 tvg-name="bestvlive-1" group-title="其他",bestvlive-1
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225663/1.m3u8
+#EXTINF:-1 tvg-name="bestvlive-10" group-title="其他",bestvlive-10
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
+#EXTINF:-1 tvg-name="bestvlive-2" group-title="其他",bestvlive-2
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225664/1.m3u8
+#EXTINF:-1 tvg-name="bestvlive-3" group-title="其他",bestvlive-3
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225665/1.m3u8
+#EXTINF:-1 tvg-name="bestvlive-4" group-title="其他",bestvlive-4
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225666/1.m3u8
+#EXTINF:-1 tvg-name="bestvlive-5" group-title="其他",bestvlive-5
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225667/1.m3u8
+#EXTINF:-1 tvg-name="bestvlive-6" group-title="其他",bestvlive-6
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225669/1.m3u8
+#EXTINF:-1 tvg-name="bestvlive-7" group-title="其他",bestvlive-7
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225670/1.m3u8
+#EXTINF:-1 tvg-name="bestvlive-8" group-title="其他",bestvlive-8
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225671/1.m3u8
+#EXTINF:-1 tvg-name="bestvlive-9" group-title="其他",bestvlive-9
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226102/1.m3u8
 #EXTINF:-1 tvg-name="中国教育3台" group-title="其他",中国教育3台
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
 #EXTINF:-1 tvg-name="中国教育3台" group-title="其他",中国教育3台
@@ -281,6 +301,12 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225643/1.m3u8
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225644/1.m3u8
 #EXTINF:-1 tvg-name="咪视界-9" group-title="其他",咪视界-9
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225646/1.m3u8
+#EXTINF:-1 tvg-name="晴彩广场舞" group-title="其他",晴彩广场舞
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226139/1.m3u8
+#EXTINF:-1 tvg-name="晴彩竞技" group-title="其他",晴彩竞技
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226116/1.m3u8
+#EXTINF:-1 tvg-name="晴彩篮球" group-title="其他",晴彩篮球
+http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226118/1.m3u8
 #EXTINF:-1 tvg-name="陕西卫视" group-title="其他",陕西卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-name="陕西卫视" group-title="其他",陕西卫视
