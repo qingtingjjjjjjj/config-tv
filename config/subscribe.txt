@@ -20,5 +20,4 @@ https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfac
 https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
 #组播源　
 https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
-#塔利班自动收集
-https://raw.githubusercontent.com/qingtingjjjjjjj/Web-Scraping/refs/heads/main/live.txt
+
