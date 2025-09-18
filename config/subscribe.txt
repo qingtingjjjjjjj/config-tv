@@ -12,8 +12,6 @@ https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250425-86840
 https://6296.kstore.vip/25.txt
 #范明明
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
-#AI
-https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/iptv.m3u
 #migu video
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 #组播源　
