@@ -14,6 +14,3 @@ https://6296.kstore.vip/25.txt
 https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
 #migu video
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-#组播源　
-https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/lenin.txt
-
