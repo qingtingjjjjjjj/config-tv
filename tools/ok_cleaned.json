@@ -1,5 +1,5 @@
 {
-  "spider": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/5EE1360_773_okpng_20250919184254519newMediaFile.png;md5;4675eeed7adff0f35976ab076da9f1de",
+  "spider": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/5DA07CC_773_okpng_20250925221658754newMediaFile.png;md5;7ba12087ca3a3967a946733589c6d964",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
@@ -9,7 +9,6 @@
     {"key": "糯米","name": "🍓糯米","type": 3,"api": "csp_NmysGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
     {"key": "浪酷弹幕版","name": "👓浪酷","type": 3,"api": "csp_TianTianGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true,"site": 2},"timeout": 10},
     {"key": "小苹果弹幕版","name": "🍎苹果","type": 3,"api": "csp_XpgGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
-    {"key": "加菲弹幕版","name": "🐱加菲","type": 3,"api": "csp_JiaFeiGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
     {"key": "云云弹幕版","name": "☁️云云","type": 3,"api": "csp_YunYunGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
     {"key": "雄鹰弹幕版","name": "🦅雄鹰","type": 3,"api": "csp_XiongYingGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
     {"key": "咖啡弹幕版","name": "🍫咖啡","type": 3,"api": "csp_KaFeiGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
@@ -25,6 +24,7 @@
     {"key": "csp_Ddys","name": "🍄低端┃在线","type": 3,"api": "csp_DdysGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 30},
     {"key": "yhdm","name": "🌸樱花┃动漫","type": 3,"api": "csp_YHDMGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 15},
     {"key": "动漫巴士","name": "🚌巴士┃动漫","type": 3,"api": "csp_Dm84Guard","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10},
+    {"key": "聚合直播","name": "📽️聚合┃直播","type": 3,"api": "csp_LivingGuard","searchable": 1,"quickSearch": 0,"filterable": 1,"timeout": 10},
     {"key": "快手直播","name": "😎快手┃直播","type": 3,"api": "csp_KsLiveGuard","searchable": 0,"quickSearch": 0,"filterable": 1,"style": {"type": "rect","ratio": 1.433},"timeout": 10},
     {"key": "虎牙直播","name": "🐯虎牙┃直播","type": 3,"api": "csp_HuyaGuard","searchable": 0,"quickSearch": 0,"filterable": 1,"style": {"type": "rect","ratio": 1.433},"timeout": 10},
     {"key": "瓜子看球","name": "⚽瓜子┃看球","type": 3,"api": "csp_GzSportGuard","searchable": 0,"changeable": 0,"style": {"type": "list"},"timeout": 10},
