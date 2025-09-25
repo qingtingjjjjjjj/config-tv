@@ -1,3 +1,5 @@
+#推流
+https://hk.gh-proxy.com/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/collect/央卫内地主流频道cs推流250824(4).txt
 #移动
 https://framagit.org/zhoujck/config/-/raw/main/json/移动
 #江苏电信
@@ -10,7 +12,5 @@ https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.t
 https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250425-868403-298462cec53c48439a5765ceaca3c67f.m3u
 #肥猫
 https://6296.kstore.vip/25.txt
-#推流
-https://hk.gh-proxy.com/https://raw.githubusercontent.com/AnonymousOrz/IPTV/main/Live/collect/央卫内地主流频道cs推流250824(4).txt
 #migu video
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
