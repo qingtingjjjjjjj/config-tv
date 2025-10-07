@@ -1,0 +1,33 @@
+name: 更新直播源
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # UTC 时间每天 00:00
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout 仓库
+        uses: actions/checkout@v3
+
+      - name: 设置 Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 安装依赖
+        run: pip install requests
+
+      - name: 运行脚本
+        run: python update_live.py
+
+      - name: 提交更新
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add video.json tv.txt last_update.txt
+          git commit -m "自动更新直播源 $(date -u +"%Y-%m-%d %H:%M:%S UTC")" || echo "没有变化"
+          git push
