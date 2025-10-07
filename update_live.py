@@ -8,8 +8,8 @@ os.makedirs(folder, exist_ok=True)
 
 # 链接和文件名
 urls = {
-    "video.json": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/video.json",
-    "tv.txt": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt"
+    "video.json": "https://raw.githubusercontent.com/wwb521/live/refs/heads/main/video.json",
+    "tv.txt": "https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt"
 }
 
 # 模拟浏览器请求头
