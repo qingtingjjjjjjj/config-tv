@@ -2,7 +2,7 @@ import os
 import requests
 from datetime import datetime
 
-# 根目录输出文件夹，如果不存在则创建
+# 根目录输出文件
 folder = "."
 os.makedirs(folder, exist_ok=True)
 
@@ -12,10 +12,17 @@ urls = {
     "tv.txt": "https://raw.bgithub.xyz/wwb521/live/refs/heads/main/tv.txt"
 }
 
+# 模拟浏览器请求头
+headers = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                  "AppleWebKit/537.36 (KHTML, like Gecko) "
+                  "Chrome/120.0.0.0 Safari/537.36"
+}
+
 for filename, url in urls.items():
     file_path = os.path.join(folder, filename)
     try:
-        response = requests.get(url, timeout=20)
+        response = requests.get(url, headers=headers, timeout=20)
         response.raise_for_status()
         with open(file_path, "wb") as f:
             f.write(response.content)
@@ -23,6 +30,6 @@ for filename, url in urls.items():
     except Exception as e:
         print(f"❌ 下载失败 {url} -> {e}")
 
-# 可选：生成更新时间日志
+# 更新时间日志
 with open(os.path.join(folder, "last_update.txt"), "w") as f:
     f.write(f"Last update: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
