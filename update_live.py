@@ -6,10 +6,11 @@ from datetime import datetime
 folder = "."
 os.makedirs(folder, exist_ok=True)
 
-# 链接和文件名
+# 链接和文件名（新增第三条接口 zubo_all.txt）
 urls = {
     "video.json": "https://raw.githubusercontent.com/wwb521/live/refs/heads/main/video.json",
-    "tv.txt": "https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt"
+    "tv.txt": "https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt",
+    "zubo_all.txt": "https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt"
 }
 
 # 模拟浏览器请求头
