@@ -22,9 +22,16 @@ headers = {
 
 for filename, url in urls.items():
     file_path = os.path.join(folder, filename)
+    print(f"➡️ 正在下载: {url} -> {file_path}")
     try:
         response = requests.get(url, headers=headers, timeout=20)
         response.raise_for_status()
+
+        # 检查内容是否为空
+        if not response.content.strip():
+            print(f"⚠️ 文件内容为空，未写入: {file_path}")
+            continue
+
         with open(file_path, "wb") as f:
             f.write(response.content)
         print(f"✅ 成功更新: {file_path}")
@@ -34,3 +41,4 @@ for filename, url in urls.items():
 # 更新时间日志
 with open(os.path.join(folder, "last_update.txt"), "w") as f:
     f.write(f"Last update: {datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S UTC')}\n")
+print("📅 更新时间已记录 -> last_update.txt")
