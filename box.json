@@ -1,5 +1,5 @@
 {
-  "spider": "https://img2.gelonghui.com/library/2eb93-9af93e33-5fb2-4ddc-9568-63c1b4a10322.png;md5;2eb9327119d339cd10302d8df7872d46",
+  "spider": "https://img2.gelonghui.com/library/965c0-d47366c3-4293-4676-a72b-76969f775dc9.png;md5;965c0ecb144c99c35f39e4a036712a3a",
   "logo": "./pic/app_icon.png",
   "lives": [
     {"name": "🍬移动🍬","type": 0,"url": "./json/移动","playerType": 2,"ua": "okhttp/5.0.0-alpha.14","epg": "https://live.fanmingming.cn/e.xml","logo": "https://live.fanmingming.cn/tv/{name}.png"},
@@ -13,11 +13,11 @@
     {"key": "310直播","name": "球赛","type": 3,"api": "./js/lib/drpy2.min.js","ext": "./js/310直播.js"},
     {"key": "线路1","name": "🍬追剧","type": 3,"api": "./js/lib/drpy2.min.js","ext": "./js/追剧.js"},
     {"key": "线路2","name": "🍬卫士","type": 3,"api": "csp_XBPQ","ext": "./json/vsys.json","jar": "./jar/xiaomi.jar"},
-    {"key": "线路7","name": "🐼苹果","type": 3,"api": "csp_LiteApple"},
+    {"key": "线路12","name": "🐼苹果","type": 3,"api": "csp_LiteApple"},
     {"key": "线路3","name": "🐼瓜子","type": 3,"api": "csp_Gz360"},
     {"key": "线路5","name": "🐼潮流","type": 3,"api": "csp_AppRJ","ext": "http://v.rbotv.cn"},
     {"key": "线路6","name": "🐼一碗","type": 3,"api": "csp_AppGet","ext": "http://www.zjcvod.com|ab4e9a421675f14b"},
-    {"key": "线路6","name": "🐼肥猫","type": 3,"api": "csp_AppGet","ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"},
+    {"key": "线路7","name": "🐼肥猫","type": 3,"api": "csp_AppGet","ext": "https://bind.315999.xyz/89.txt|#getapp@TMD@2025|120"},
     {"key": "线路8","name": "🐼云云","type": 3,"api": "csp_AppGet","ext": "https://dyyztvappapigoodgx.68.gy:12689/ciwk28vu38io8/apiurl.txt|dyyztvapiappyyds"},
     {"key": "线路9","name": "🐼冷心","type": 3,"api": "csp_AppMuou","ext": "http://app.789dd.cn|火猫影视"},
     {"key": "线路10","name": "🐼玩偶","type": 3,"api": "csp_WoggGuard","ext": "https://www.wogg.one/"},
