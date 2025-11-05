@@ -1,5 +1,5 @@
 {
-  "spider": "https://pan.qingyuji.cn/f/QmLaFr/o.png;md5;492b6ac1b5abf9509b10a20ac3abfe89",
+  "spider": "https://pan.qingyuji.cn/f/Q4z6hr/kk.png;md5;b3fe8c2580f248c0931d0aff419d10f0",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
@@ -93,7 +93,8 @@
   "uhibo.com",
   ".*boku.*",
   ".*nivod.*",
-  ".*ulivetv.*"
+  ".*ulivetv.*",
+  "iill.top"
 ],
   "rules": [
     {"name": "cl","hosts": ["magnet"],"regex": ["最 新","直 播","更 新"]},
