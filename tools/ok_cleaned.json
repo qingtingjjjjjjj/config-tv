@@ -1,5 +1,5 @@
 {
-  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/XjECObVX.png;md5;4f3bd2d96c8acbac3085c397665536ef",
+  "spider": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/Gn2K6AQm.png;md5;8a0ff6e09febce41fd8066579a860e37",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
   "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
   "sites": [
@@ -93,6 +93,8 @@
   ".*boku.*",
   ".*nivod.*",
   ".*ulivetv.*",
+  "188766.xyz",
+  "4gtv.tv",
   "iill.top"
 ],
   "rules": [
