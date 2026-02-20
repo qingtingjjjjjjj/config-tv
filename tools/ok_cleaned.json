@@ -7,7 +7,6 @@
     {"key": "文才","name": "🌺文才","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {"sp": "Jpys","danmu": true},"timeout": 10},
     {"key": "糯米","name": "🍓糯米","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {"sp": "Nmys","danmu": true},"timeout": 10},
     {"key": "热播弹幕版","name": "📺热播","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {"sp": "TianTian","danmu": true,"site": 0},"timeout": 10},
-    {"key": "云云弹幕版","name": "☁️云云","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"ext": {"sp": "YunYun","danmu": true},"timeout": 10},
     {"key": "雄鹰弹幕版","name": "🦅雄鹰","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"ext": {"sp": "XiongYing","danmu": true},"timeout": 10},
     {"key": "一起弹幕版","name": "📺一起","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {"sp": "Yqs","danmu": true},"timeout": 10},
     {"key": "奇奇弹幕版","name": "🐵奇奇","type": 3,"api": "csp_AweSomeGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"filterable": 1,"ext": {"sp": "QiQi","danmu": true},"timeout": 10},
@@ -68,13 +67,12 @@
   "lives": [
     {"name": "MIGU（登录版）","type": 0,"url": "http://127.0.0.1:9978/proxy?do=migu&type=m3u8","playerType": 2,"timeout": 10},
     {"name": "MIGU（AI版本）","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&url=https://ds65.tv1288.xyz","playerType": 2,"timeout": 10},
-    {"name": "冰茶","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dbingcha1130%26json%3Dtrue","playerType": 2,"timeout": 10,"ua": "bingcha/1.1 (mianfeifenxiang) "},
     {"name": "江苏移动","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&url=https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/529EAA1_773_jsyd_20251205182514164newMediaFile.bmp","playerType": 2,"timeout": 10},
     {"name": "一起看","type": 3,"api": "csp_AweSomeGuard","url": "yqk","playerType": 2,"ext": {"sp": "Huya"},"timeout": 10},
-    {"name": "肥羊虎牙一起看","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/huyayqk.m3u","playerType": 2,"timeout": 10,"ua": "okHttp/Mod-1.4.0.0"},
-    {"name": "肥羊B站直播","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/bililive.m3u","playerType": 2,"timeout": 10,"ua": "okHttp/Mod-1.4.0.0"},
-    {"name": "肥羊斗鱼一起看","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/douyuyqk.m3u","playerType": 2,"timeout": 10,"ua": "okHttp/Mod-1.4.0.0"},
-    {"name": "肥羊YY轮播","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/yylunbo.m3u","playerType": 2,"timeout": 10,"ua": "okHttp/Mod-1.4.0.0"}
+    {"name": "肥羊虎牙一起看","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/huyayqk.m3u","playerType": 2,"timeout": 10,"ua": "okHttp/Mod-1.5.0.0"},
+    {"name": "肥羊B站直播","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/bililive.m3u","playerType": 2,"timeout": 10,"ua": "okHttp/Mod-1.5.0.0"},
+    {"name": "肥羊斗鱼一起看","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/douyuyqk.m3u","playerType": 2,"timeout": 10,"ua": "okHttp/Mod-1.5.0.0"},
+    {"name": "肥羊YY轮播","type": 0,"url": "http://127.0.0.1:9978/proxy?do=live&url=https://sub.ottiptv.cc/yylunbo.m3u","playerType": 2,"timeout": 10,"ua": "okHttp/Mod-1.5.0.0"}
   ],
   "ijk": [
     {"group": "软解码","options": [{"category": 4,"name": "opensles","value": "0"},{"category": 4,"name": "overlay-format","value": "842225234"},{"category": 4,"name": "framedrop","value": "1"},{"category": 4,"name": "soundtouch","value": "1"},{"category": 4,"name": "start-on-prepared","value": "1"},{"category": 1,"name": "http-detect-range-support","value": "0"},{"category": 1,"name": "fflags","value": "fastseek"},{"category": 2,"name": "skip_loop_filter","value": "48"},{"category": 4,"name": "reconnect","value": "1"},{"category": 4,"name": "enable-accurate-seek","value": "0"},{"category": 4,"name": "mediacodec","value": "0"},{"category": 4,"name": "mediacodec-auto-rotate","value": "0"},{"category": 4,"name": "mediacodec-handle-resolution-change","value": "0"},{"category": 4,"name": "mediacodec-hevc","value": "0"},{"category": 1,"name": "dns_cache_timeout","value": "600000000"}]},
