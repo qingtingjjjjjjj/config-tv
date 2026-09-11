@@ -362,9 +362,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
 #EXTINF:-1 tvg-name="山东卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
 http://iptv.huuc.edu.cn/hls/sdhd.m3u8
 #EXTINF:-1 tvg-name="山西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="卫视频道",山西卫视
-http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
-#EXTINF:-1 tvg-name="山西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="卫视频道",山西卫视
 http://153.0.171.163:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山西卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="卫视频道",山西卫视
+http://119.39.9.8:9901/tsfile/live/0118_1.m3u8
 #EXTINF:-1 tvg-name="海南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://hlsztemgsplive.miguvideo.com:8080/envivo_x/SD/lvyou/711/index.m3u8?msisdn=2026091016011254d0b22057ff4c08a5fab0843de91105&mdspid=&spid=600633&netType=0&sid=5910022165&pid=2028597139&timestamp=20260910160112&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=947472502&ParentNodeID=-99&assertID=5910022165&client_ip=171.8.79.254&SecurityKey=20260910160112&promotionId=&mvid=5900004359&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9c5fac2654f8119979a2be05458cd1d2
 #EXTINF:-1 tvg-name="海南卫视"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
@@ -404,13 +404,13 @@ http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CHC家庭影院"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://198.204.228.26/live/chcjt.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
+http://192.151.150.154/live/chcjt.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://107.150.60.122/live/chcjt.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://198.204.228.26/live/chcjt.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CHC家庭影院"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
-http://192.151.150.154/live/chcjt.m3u8
+http://198.204.228.26/live/chcjt.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
 http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="华数4K"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数4K.png" group-title="数字频道",华数4K
@@ -650,11 +650,11 @@ https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
 #EXTINF:-1 tvg-name="苏州文化生活"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州文化生活.png" group-title="☘️江苏省",苏州文化生活
 https://stream1.freetv.fun/su-zhou-wen-hua-sheng-huo-2.m3u8
 #EXTINF:-1 tvg-name="苏州新闻综合"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州新闻综合.png" group-title="☘️江苏省",苏州新闻综合
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0811&tk=e503191f8e20
-#EXTINF:-1 tvg-name="苏州新闻综合"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州新闻综合.png" group-title="☘️江苏省",苏州新闻综合
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0811&tk=e503191f8e20
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7321&tk=b53028476470
 #EXTINF:-1 tvg-name="苏州新闻综合"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州新闻综合.png" group-title="☘️江苏省",苏州新闻综合
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7321&tk=b53028476470
+#EXTINF:-1 tvg-name="苏州新闻综合"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州新闻综合.png" group-title="☘️江苏省",苏州新闻综合
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0811&tk=e503191f8e20
 #EXTINF:-1 tvg-name="苏州新闻综合"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州新闻综合.png" group-title="☘️江苏省",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 tvg-name="苏州新闻综合"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州新闻综合.png" group-title="☘️江苏省",苏州新闻综合
@@ -666,7 +666,7 @@ https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 tvg-name="苏州新闻综合"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州新闻综合.png" group-title="☘️江苏省",苏州新闻综合
 http://106.53.99.30/公众号【榴芒电视】/proxy/migu1.php?id=szxwzh
 #EXTINF:-1 tvg-name="苏州新闻综合"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州新闻综合.png" group-title="☘️江苏省",苏州新闻综合
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7321&tk=b53028476470
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0811&tk=e503191f8e20
 #EXTINF:-1 tvg-name="苏州新闻综合"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州新闻综合.png" group-title="☘️江苏省",苏州新闻综合
 https://stream1.freetv.fun/su-zhou-xin-wen-zong-he-13.m3u8
 #EXTINF:-1 tvg-name="苏州生活资讯"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/苏州生活资讯.png" group-title="☘️江苏省",苏州生活资讯
@@ -844,9 +844,9 @@ http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰资讯"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="☘️港·澳·台",凤凰资讯
 http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰香港"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="☘️港·澳·台",凤凰香港
-http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk TVB
-#EXTINF:-1 tvg-name="凤凰香港"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="☘️港·澳·台",凤凰香港
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk
+#EXTINF:-1 tvg-name="凤凰香港"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="☘️港·澳·台",凤凰香港
+http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk TVB
 #EXTINF:-1 tvg-name="凤凰香港"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="☘️港·澳·台",凤凰香港
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=fhhk TVB
 #EXTINF:-1 tvg-name="凤凰香港"tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="☘️港·澳·台",凤凰香港
@@ -1150,9 +1150,9 @@ http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playl
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
 http://hlsztemgsplive.miguvideo.com:8080/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?msisdn=2026091016025956fe0bd5afc64973b56d6cdd106e76f1&mdspid=&spid=699054&netType=0&sid=2200322852&pid=2028597139&timestamp=20260910160259&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608917627&ParentNodeID=-99&assertID=2200322852&client_ip=171.8.79.254&SecurityKey=20260910160259&promotionId=&mvid=2200322852&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=63f2becaa10fc8408341e4bfb1af9173
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
-http://198.204.228.26/live/nfws.m3u8
-#EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
 http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
+http://198.204.228.26/live/nfws.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
 http://107.150.60.122/live/nfws.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" group-title="其他",大湾区卫视
